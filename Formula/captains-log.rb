@@ -1,4 +1,4 @@
-class Captainslog < Formula
+class CaptainsLog < Formula
   desc "Markdown log tool"
   homepage "https://github.com/tnpestana/captains-log"
   url "https://github.com/tnpestana/captains-log/archive/v1.0.0.tar.gz"
