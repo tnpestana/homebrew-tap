@@ -2,7 +2,7 @@ class CaptainsLog < Formula
   desc "Markdown log tool"
   homepage "https://github.com/tnpestana/captains-log"
   url "https://github.com/tnpestana/captains-log/archive/v1.0.2.tar.gz"
-  sha256 "54b7b3893ae2366239205224e72c285b3bf2d0fd040da450a5ba21c81937823d"  
+  sha256 "f24ed0f219ceab1785f9c92896c952bc1fab08a89f81607ca9d59b4bb20fe373"  
   version "1.0.2"
 
   depends_on "lua"
